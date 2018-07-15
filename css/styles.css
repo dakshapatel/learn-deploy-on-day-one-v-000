@@ -235,6 +235,14 @@ a:visited {
   background-repeat: no-repeat;
 }
 
+.profile-banner {
+  height: 410px;
+ background-image: url("https://imgur.com/DsyzBRh");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .vitals-container {
   position: relative;
   min-height: 360px;
